@@ -1,1 +1,2 @@
 print("shitol")
+print("shitol")
